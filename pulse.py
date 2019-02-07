@@ -1,6 +1,6 @@
 # Date: 08/09/2017
 # Distro: Kali Linux
-# Author: Ethical-H4CK3R
+# Author: t4mp4n_m4ut
 # Description: Bruteforce Instagram, Facebook and Twitter
 #
 #
